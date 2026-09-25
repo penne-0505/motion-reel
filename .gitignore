@@ -1,0 +1,13 @@
+# environment
+.venv/
+__pycache__/
+
+# render outputs (regenerate with the steps in README)
+frames/
+render3d/
+render3d_preview/
+*.mp4
+*.wav
+*.blend
+*.blend1
+*.log
